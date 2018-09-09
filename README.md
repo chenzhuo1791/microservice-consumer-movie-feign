@@ -1,2 +1,2 @@
-# microservice-consumer-movie
-microservice-consumer-movie-init for eureka client and consumer part
+# microservice-consumer-movie-feign
+microservice-consumer-movie-feign work with provider-user and eureka projects .
